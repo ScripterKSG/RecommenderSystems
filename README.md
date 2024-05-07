@@ -4,3 +4,4 @@ rating.
 The dataset used can be found here:
 [Goodreads Datasets](https://mengtingwan.github.io/data/goodreads.html)
 
+For an overview of the results, please see the pdf report. The hyperlinks do not work from Github; you will have to download the pdf and then you'll be able to use the hyperlinks.
